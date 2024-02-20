@@ -1,2 +1,3 @@
 # xc
 pl
+print("hello")
